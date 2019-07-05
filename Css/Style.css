@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    
+}
+header{
+    border-radius: 20px;
+    background: rebeccapurple;
+    padding: 1em;
+}
+body{
+    margin: 2em;
+}
+#form{
+    border-radius: 20px;
+    background: antiquewhite;
+    text-align: center;
+    text-decoration: none;
+    padding-bottom: 16em;
+    padding-top: 8em;
+    font-size: 22px;
+}
+ul{
+    border: 2px solid red;
+    width: 15em;
+    height: 15em;
+    margin-left: 22em;
+}
